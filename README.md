@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Lalu Prasath</h1>
+<h3 align="center">A passionate MERN Stack developer</h3>
+<br>
 # 💫 About Me:
 🛠   I’m currently working with Node JS, React-Native, etc.<br>🚀   Fun fact: Equal is Not Always Equal in JS.<br>💻   I love exploring new technologies and building cool stuff.<br>📰   Reading, writing & watching Tech Stuff whenever possible.<br>⚡   Fun fact Equal is Not Always Equal in JS
 
