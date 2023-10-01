@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer</h3>
 <br>
 <h4 align="left">💫 About Me:</h4>
-🛠   I’m currently working with Node JS, React-Native, etc.<br>🚀   Fun fact: Equal is Not Always Equal in JS.<br>💻   I love exploring new technologies and building cool stuff.<br>📰   Reading, writing & watching Tech Stuff whenever possible.<br>⚡   Fun fact Equal is Not Always Equal in JS
+🛠   I’m currently working with Node JS, React-Native, etc.<br>🚀   Fun fact: Equal is Not Always Equal in JS.<br>💻   I love exploring new technologies and building cool stuff.<br>📰   Reading, writing & watching Tech Stuff whenever possible.<br>⚡  I’m looking to collaborate on UI/UX and Full Stack Development.
 
 
 ## 🌐 Socials:
